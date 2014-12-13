@@ -10,7 +10,7 @@ public class NewMain {
      */
     public static void main(String[] args) {
       FuncionesString fa= new FuncionesString();
-      fa.metodosCadena("Fernand");
+      fa.metodosCadena("Fernando");
     }
     
 }
